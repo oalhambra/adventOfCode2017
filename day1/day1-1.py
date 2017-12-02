@@ -1,4 +1,4 @@
-f = open("day1.txt","r")
+f = open("input.txt","r")
 data=f.read()
 answer=0
 
